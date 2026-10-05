@@ -10,7 +10,7 @@
       "destination": "https://coinputer.net/_next/:path*"
     },
     {
-      "source": "/:path*",
+      "source": "/(.*)",
       "destination": "/index.html"
     }
   ]
