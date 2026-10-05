@@ -10,11 +10,7 @@
       "destination": "https://coinputer.net/_next/:path*"
     },
     {
-      "source": "/(.*\\.(?:png|jpg|jpeg|svg|ico|webp|woff2?))$",
-      "destination": "https://coinputer.net/$1"
-    },
-    {
-      "source": "/(.*)",
+      "source": "/:path*",
       "destination": "/index.html"
     }
   ]
