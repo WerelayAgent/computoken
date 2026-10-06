@@ -6,7 +6,7 @@
       "destination": "https://coinputer.net/api/:path*"
     },
     {
-      "source": "/_next/:path*",
+      "source": "/_assets/:path*",
       "destination": "https://coinputer.net/_next/:path*"
     },
     {
